@@ -13,27 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="719121d9-3a04-4674-a052-88e566c4dde1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Analyst.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Analyst.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/History.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/History.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PurchaseSale.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PurchaseSale.h" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeCCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeCXXCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeDetermineCompilerABI_C.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeSystem.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/CXX.includecache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/depend.internal" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HW2 - SampleDesign.vpp" afterPath="$PROJECT_DIR$/HW2 - SampleDesign.vpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Comparer.cpp" afterPath="$PROJECT_DIR$/Comparer.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Comparer.h" afterPath="$PROJECT_DIR$/Comparer.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/AnalystComparer.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/AnalystComparer.cbp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AnalystComparer.dir/DependInfo.cmake" />
@@ -478,12 +459,20 @@
       <workItem from="1484808558726" duration="397000" />
       <workItem from="1484808965242" duration="52000" />
       <workItem from="1485624659906" duration="1043000" />
-      <workItem from="1485826117431" duration="4910000" />
+      <workItem from="1485826117431" duration="5046000" />
     </task>
+    <task id="LOCAL-00001" summary="1/30/17">
+      <created>1485834402881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485834402881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33494000" />
+    <option name="totallyTimeSpent" value="33630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="137" y="28" width="982" height="801" extended-state="0" />
@@ -542,6 +531,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1/30/17" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/30/17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
