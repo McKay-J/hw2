@@ -1,4 +1,4 @@
-# Install script for directory: /Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer
+# Install script for directory: /Users/McMac/Documents/git/hw2/AnalystComparer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

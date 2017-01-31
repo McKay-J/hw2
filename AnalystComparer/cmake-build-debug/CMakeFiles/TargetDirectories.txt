@@ -1,3 +1,3 @@
-/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir
+/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir

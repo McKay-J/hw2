@@ -4,9 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/Comparer.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/Utils.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/main.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.o"
+  "/Users/McMac/Documents/git/hw2/AnalystComparer/Analyst.cpp" "/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Analyst.cpp.o"
+  "/Users/McMac/Documents/git/hw2/AnalystComparer/Comparer.cpp" "/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
+  "/Users/McMac/Documents/git/hw2/AnalystComparer/History.cpp" "/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/History.cpp.o"
+  "/Users/McMac/Documents/git/hw2/AnalystComparer/PurchaseSale.cpp" "/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.o"
+  "/Users/McMac/Documents/git/hw2/AnalystComparer/Utils.cpp" "/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
+  "/Users/McMac/Documents/git/hw2/AnalystComparer/main.cpp" "/Users/McMac/Documents/git/hw2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
