@@ -6,18 +6,19 @@
 #define ANALYSTCOMPARER_ANALYST_H
 #include "History.h"
 #include <string>
+#include "Utils.cpp"
 
 
 
 class Analyst {
 private:
-    std::string m_name
-    std::string m_initials
-    History m_history
+    std::string m_name;
+    std::string m_initials;
+    History m_history;
 
 public:
-    int load(std::ifstream)
-    float getStockPerformance(std::string)
+    int load(std::ifstream&)
+    float getStockPerformance(std::string);
     std::string getName(){return m_name;}
     std::string getInitials(){return m_initials;}
     History getHistory(){return m_history;}
